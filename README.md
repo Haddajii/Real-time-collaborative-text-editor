@@ -73,4 +73,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ### Contributing
 Feel free to fork this repository and submit pull requests for bug fixes, features, or improvements. Contributions are always welcome!
 
-Made with ❤️ by [Haddajii]
+Made with ❤️ by Haddajii
