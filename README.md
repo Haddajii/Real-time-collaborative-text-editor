@@ -68,7 +68,8 @@ Start typing in one tab and see the updates reflected live on the other tab.
 Each user can make their own changes, and they will instantly be visible to all connected users in real-time.
 
 ### License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for details.
+
 
 ### Contributing
 Feel free to fork this repository and submit pull requests for bug fixes, features, or improvements. Contributions are always welcome!
